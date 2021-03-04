@@ -1,0 +1,25 @@
+.list{
+  float: right;
+}
+.First{
+  float: left;
+  list-style: none;
+  font-size: 20px;
+  margin: 10px;
+}
+.logo{
+  float: left;
+  padding: 20px;
+  font-size: 30px;
+  border: solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+header{
+  height: 80px;
+  background-color: #CCFFCC;
+}
+.main{
+  height: 1000px;
+  background-color: #99CCFF;
+}
